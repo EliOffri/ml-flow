@@ -31,3 +31,13 @@ This project applies a full supervised machine learning flow on the **Wine Recog
 - **Test Macro F1-score**: 100%  
 
 ## 📂 Repository Structure
+├── Assignment_supervised_learning_flow.ipynb # Main Jupyter Notebook
+├── wine_train.csv # Training data
+├── wine_test.csv # Test data
+├── README.md # Project documentation
+
+## ⚙️ Requirements
+- Python 3.8+  
+- pandas, numpy  
+- scikit-learn  
+- matplotlib, seaborn
